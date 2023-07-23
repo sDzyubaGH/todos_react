@@ -5,7 +5,6 @@ import "./index.css";
 import RootLayout from "./pages/RootLayout";
 import Home from "./pages/Home";
 import NewTodo from "./pages/NewTodo";
-import History from "./pages/History";
 
 export const routes = {
   home: '/',
