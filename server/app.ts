@@ -12,5 +12,5 @@ app.use(bodyParser.json())
 app.use('/api', indexRouter)
 
 app.listen(PORT, () => {
-  console.log('App started at posrt', PORT)
+  console.log('App started at port', PORT)
 })
